@@ -31,18 +31,14 @@ Our experience has shown us that teaching the same class in different environmen
 
 This curriculuim will continuously evolve over time based on our experiences, what we hear from you and new tools and technology that become available. 
 
-### Become a contributor
-
-If you have ideas or suggestions for content for this project, please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](ROADMAP.md). Please note that by joining this project, you agree to follow the [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
-
-We are also hosting a session at this year's [MozFest][link_mozfest] (October 27-28, 2017 in London!) where we will discuss and brainstorm what this template should look like. 
+We are also hosting a session at this year's [MozFest][https://mozillafestival.org/] (October 27-28, 2017 in London!) where we will discuss and brainstorm what this template should look like. 
 
 
 ## Contact
 
-If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. You can also contact me by email (lauren [dot] gardner [at] eyebeam [dot] org ) or on Twitter ([@poohlaga][https://twitter.com/poohlaga]).
+If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. You can also contact me by email 'lauren [dot] gardner [at] eyebeam [dot] org' or on Twitter [@poohlaga][https://twitter.com/poohlaga].
 
-You can follow Eyebeam at (Twitter: [@eyebeamnyc][https://twitter.com/eyebeamnyc] or GitHub: [@eyebeam][https://github.com/eyebeam]). 
+You can follow Eyebeam at Twitter: [@eyebeamnyc][https://twitter.com/eyebeamnyc] or GitHub: [@eyebeam][https://github.com/eyebeam]. 
 
 
 
