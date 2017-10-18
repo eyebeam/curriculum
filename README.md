@@ -2,7 +2,7 @@
 
 ***[Eyebeam](http://www.eyebeam.org) is a nonprofit studio for collaborative experiments with technology toward a more imaginative and just world. By providing generous support to artists for research, production and education, Eyebeam makes ideas real.***
 
-Eyebeam is working with teaching artists to develop an open source curriculum template so educators and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathmatics) based learning.
+Eyebeam is working with teaching artists to develop an open source curriculum template so educators and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
 
 We are working open because we believe developing with the insight, input and needs of a diverse audience will output better curriculum.
 
@@ -11,34 +11,36 @@ Here you will find information about the project and how to get involved!
 
 ## Project description
 
-Eyebeam has a 19 year history offering innovative educational programs. This project is intended to first provide a template for teaching artists to document their lessons with a larger goal to share the curriculum for wider use in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
+Eyebeam has a 19 year history offering innovative educational programs led by our residents and alumni. The [Eyebeam residency](http://eyebeam.org/residency/) is a prestigious award for artists engaged with technology and technologists working in the arts.  
 
+This project is intended to first provide a template for our teaching artists to document their lessons with a larger goal to share the curriculum for wider use in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
 
-### The project's larger mission is to:
+Our mission with this project is to:
+* Provide free, workshop materials and class exercises 
+* Provide a platform for students & teachers to provide feedback and iterate on our curriculum
+* Have a consistent location and format for Eyebeam’s education materials
 
-* Provide free, STEAM based workshop materials and exercises 
-* Provide a platform for students & teachers to iterate on our curriculum
-* Have a consistant location and format for Eyebeam’s education materials
-
-The project will be developed on GitHub so that anyone can contribute resources and feedback as well as provide links to outside tools for easier contribution and feedback.
+The project will be developed on GitHub so that anyone can contribute resources and feedback as well as provide links to outside tools for easier contribution.
 
 
 ## Get involved
 
-This project benifits from your feedback! 
+This project benefits from your feedback! 
 
-Experience has shown us that teaching the same class in different environments requires different tactics. Things like class size, duration, available resources and subject familiarity affect how the curriculuim is delivered. We want to hear what specific challenges you face - our goal is to provide adaptable and flexible curriculuim that will work anywhere.
+Experience has shown us that teaching the same class in different environments requires different tactics. Things like class size, duration, available resources and subject familiarity affect how the curriculum is delivered. We want to hear what specific challenges you face - our goal is to provide adaptable and flexible curriculum that will work anywhere.
 
-This curriculuim will evolve over time based on our experiences, what we hear from you and new tools and technology that become available. 
+This curriculum will evolve over time based on our experiences, what we hear from you and new tools and technology that become available. 
 
 We are also hosting a session at this year's [MozFest](https://mozillafestival.org/) (October 27-28, 2017 in London!) where we will discuss and brainstorm what this template should look like. 
 
 
 ## Contact
 
-If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. You can also contact me by email 'lauren.gardner@eyebeam.org' or on Twitter [@poohlaga](https://twitter.com/poohlaga).
+Hi, I'm [Lauren](http://eyebeam.org/about/) and I manage the educational programs at Eyebeam. You can contact me by email at *lauren.gardner@eyebeam.org* or on Twitter at [@poohlaga](https://twitter.com/poohlaga). 
 
-You can follow Eyebeam at Twitter: [@eyebeamnyc](https://twitter.com/eyebeamnyc) or GitHub: [@eyebeam](https://github.com/eyebeam). 
+If you want to report a problem or make a suggestion, the easiest thing to do is to [open an issue](../../issues) within this GitHub repository. 
+
+You can learn more about the education programs at Eyebeam from our website or follow [Eyebeam](http://eyebeam.org/education/) on Twitter: [@eyebeamnyc](https://twitter.com/eyebeamnyc) or GitHub: [@eyebeam](https://github.com/eyebeam). 
 
 
 
