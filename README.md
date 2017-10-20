@@ -1,12 +1,10 @@
-# Welcome to Eyebeam Curriculum
+# Welcome to Eyebeam Open Education
 
-***[Eyebeam](http://www.eyebeam.org) is a nonprofit studio for collaborative experiments with technology toward a more imaginative and just world. By providing generous support to artists for research, production and education, Eyebeam makes ideas real.***
+***[Eyebeam](http://www.eyebeam.org) is a nonprofit studio for collaborative experiments with technology toward a more imaginative and just world.***
 
-Eyebeam is working with teaching artists to develop an open source curriculum template so educators and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
+Eyebeam is working with educators to develop an open source curriculum template so teachers and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
 
-We are working open because we believe developing with the insight, input and needs of a diverse audience will output better curriculum.
-
-Here you will find information about the project and how to get involved!
+We are working open because we believe developing learning materials with the insight and input of a diverse audience will create a better end result. We hope you agree and encourage you to read more about the project and how to get involved!
 
 
 ## Project description
@@ -29,7 +27,7 @@ This project benefits from your feedback!
 
 Experience has shown us that teaching the same class in different environments requires different tactics. Things like class size, duration, available resources and subject familiarity affect how the curriculum is delivered. We want to hear what specific challenges you face - our goal is to provide adaptable and flexible curriculum that will work anywhere.
 
-This curriculum will evolve over time based on our experiences, what we hear from you and new tools and technology that become available. 
+This curriculum will evolve over time based on our experiences, what we hear from you and new tools and technology that become available. If you would like to get involved, please take a look at our [roadmap](https://github.com/eyebeam/curriculum/issues/1) to see where we are at in our development cycle and how you can contribute. We'd love to [hear your thoughts](https://github.com/eyebeam/curriculum/issues/5).
 
 We are also hosting a session at this year's [MozFest](https://mozillafestival.org/) (October 27-28, 2017 in London!) where we will discuss and brainstorm what this template should look like. 
 
