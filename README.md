@@ -6,6 +6,15 @@ Eyebeam is working with educators to develop an open source curriculum template 
 
 We are working open because we believe developing learning materials with the insight and input of a diverse audience will create a better end result. We hope you agree and encourage you to read more about the project and how to get involved!
 
+## About Us
+
+Eyebeam's educational programming is artist-led and every educational initiative is core to furtherance of Eyebeam’s mission. We believe in:
+* Openness: to teach technology through art, encouraging self-expression and inquiry with the goal to create learning habits that are long lasting and self-perpetuating.
+* Justice: to engage students to think critically about technology practices and how they can be used to further social justice, equality and activism.
+* Invention: to empower youth to see technology as a tool for creation, enabling them to be producers, not only consumers.
+* Access: to teach fundamental technology concepts pairing minimal materials with maximum impact.
+
+During our flagship education program, [Digital Day Camp](http://eyebeam.org/stopwork/eyebeam-celebrates-the-return-of-digital-day-camp/), students work alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field, and social issues around a unifying topical theme (the theme for 2017 was 'POWER'). We challenge youth to apply creative thinking strategies across a range of tools with the goal to develop critical, empowering and long-lasting relationships with technology and see their role in it as agents of change. 
 
 ## Project description
 
