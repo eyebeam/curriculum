@@ -27,7 +27,7 @@ After this workshop, students will...
 
 ### Materials
 * [Printed Instructions](http://networks.land/handouts/colors-for-blocks.pdf)
-* [pipe cleaners](https://www.amazon.com/gp/product/B01GK0Z8XW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GK0Z8XW&linkCode=as2&tag=eye013-20&linkId=0a4b2fc6e7196ea3c94bc6a1edf9107f), [yarn](https://www.amazon.com/gp/product/B016O6U3OG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016O6U3OG&linkCode=as2&tag=eye013-20&linkId=1fae5a860734fa2b7a83167f56ef411b)
+* [pipe cleaners](https://www.amazon.com/gp/product/B01GK0Z8XW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GK0Z8XW&linkCode=as2&tag=eye013-20&linkId=0a4b2fc6e7196ea3c94bc6a1edf9107f) or [yarn](https://www.amazon.com/gp/product/B016O6U3OG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016O6U3OG&linkCode=as2&tag=eye013-20&linkId=1fae5a860734fa2b7a83167f56ef411b)
 * [floral crafting foam blocks](https://www.amazon.com/gp/product/B00GO4W2S4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GO4W2S4&linkCode=as2&tag=eye013-20&linkId=d04cfd1f9a5df82a194daffe5c6557fe)
 * post-it notes & pens or colored pencils
 
