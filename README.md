@@ -1,10 +1,8 @@
 # Welcome to Eyebeam Open Education
 
-***[Eyebeam](http://www.eyebeam.org) is a nonprofit studio for collaborative experiments with technology toward a more imaginative and just world.***
+[Eyebeam](http://www.eyebeam.org) is working with educators to develop an open source curriculum template so teachers and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
 
-Eyebeam is working with educators to develop an open source curriculum template so teachers and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
-
-We are working open because we believe developing learning materials with the insight and input of a diverse audience will create a better end result. We hope you agree and encourage you to read more about the project and how to get involved!
+We work open because we believe developing learning materials with the insight and input of a diverse audience will create a better end result. We hope you agree and encourage you to read more about the project and how you can get involved!
 
 ## About Us
 
