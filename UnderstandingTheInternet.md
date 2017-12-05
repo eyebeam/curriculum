@@ -66,28 +66,28 @@ Further exercises ***to be published later*** expand on this introduction and wa
 	B)  Bandwidth, Banner, Blog, Bluetooth, Broadband, Browser
 	C)  Camera, Cell Phone, Cell Tower, Chat, Code, Carrier Hotel, Computer, Connection, Connectivity, Cookie
 	D)  Data, Database, Desktop, Digital, Disk, Display, Domain Name, Download, Drive, Data Center
-	E)	E-mail, Electronic, Electronics, Ethernet
-	F)	Facebook, Fax, Fiber optic, Firewall, Floppy disk, Freeware
-	G)	GIF, Graphics, Google
-	H)	Hacker, Hard drive, Hardware, Home page, Host, Hypertext
-	I)	Infiltration, Information, Input, Instant Messaging, Integrate, Interface, Internet, Intranet, iPad, iPhone, Internet Exchange, Internet Safety ISP
-	J)	JPEG
-	K)	Keyboard
-	L)	Laptop, Laser, Log in, Log off
-	M)	Mainframe, Memory, Modem, Monitor, Mouse
-	N)	Navigate, Network
-	O)	Off-line, On line, Operating system, Opt out
-	P)	Password, Phishing, Pirate, Pixel, Printer, Privacy, Processor, Product, Program, Programmer, Project, Projector, Protocol, Public domain, Purge
-	Q)	Query, Queue
-	R)	Radio, Ranking, Rate, Record, Refer, Registry, Regulate, Relevancy, Remote, Repair, Research, Resolution, , Retrieval, RAM, ROM, Router
-	S)	Safeguard, Satellite, Save, Scan, Screen, Screen saver, Script, Search, Search engine, Security, Software, Source, Spam, Speed, Spyware, Surfing, System, Server
-	T)	Tech, Technology, Telephone, Television, Terminal, Twitter
-	U)	Update, Upload, User ID, Username
-	V)	Video conference, Virtual, Virus
-	W)	Webmaster, Webpage, Website, Windows, Wireless, World Wide Web
-	X)	
-	Y)	YouTube
-	Z)	
+	E)  E-mail, Electronic, Electronics, Ethernet
+	F)  Facebook, Fax, Fiber optic, Firewall, Floppy disk, Freeware
+	G)  GIF, Graphics, Google
+	H)  Hacker, Hard drive, Hardware, Home page, Host, Hypertext
+	I)  Infiltration, Information, Input, Instant Messaging, Integrate, Interface, Internet, Intranet, iPad, iPhone, Internet Exchange, Internet Safety ISP
+	J)  JPEG
+	K)  Keyboard
+	L)  Laptop, Laser, Log in, Log off
+	M)  Mainframe, Memory, Modem, Monitor, Mouse
+	N)  Navigate, Network
+	O)  Off-line, On line, Operating system, Opt out
+	P)  Password, Phishing, Pirate, Pixel, Printer, Privacy, Processor, Product, Program, Programmer, Project, Projector, Protocol, Public domain, Purge
+	Q)  Query, Queue
+	R)  Radio, Ranking, Rate, Record, Refer, Registry, Regulate, Relevancy, Remote, Repair, Research, Resolution, , Retrieval, RAM, ROM, Router
+	S)  Safeguard, Satellite, Save, Scan, Screen, Screen saver, Script, Search, Search engine, Security, Software, Source, Spam, Speed, Spyware, Surfing, System, Server
+	T)  Tech, Technology, Telephone, Television, Terminal, Twitter
+	U)  Update, Upload, User ID, Username
+	V)  Video conference, Virtual, Virus
+	W)  Webmaster, Webpage, Website, Windows, Wireless, World Wide Web
+	X)  
+	Y)  YouTube
+	Z)  
 
 
 ## Additional resources
