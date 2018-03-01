@@ -1,8 +1,13 @@
 # Welcome to Eyebeam Open Education
 
-[Eyebeam](http://www.eyebeam.org) is working with educators to develop an open source curriculum template so teachers and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
+[Eyebeam](http://www.eyebeam.org) is working with educators to develop an open source curriculum repository so teachers and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
 
 We work open because we believe developing learning materials with the insight and input of a diverse audience will create a better end result. We hope you agree and encourage you to read more about the project and how you can get involved!
+
+## For our Teaching Artists
+
+We'd love for you to use this [template](https://github.com/eyebeam/curriculum/blob/master/TEMPLATE.md) to create a handout for the workshop you will be teaching at Eyebeam. Here's an [example](https://github.com/eyebeam/curriculum/blob/master/UnderstandingTheInternet.md) of what it looks like filled in.
+
 
 ## About Us
 
