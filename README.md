@@ -1,17 +1,18 @@
 # Welcome to Eyebeam Open Education
 
-[Eyebeam](http://www.eyebeam.org) is working with educators to develop an open source curriculum repository so teachers and organizations can easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
+[Eyebeam](http://www.eyebeam.org) is working with educators to develop an open source curriculum repository for teachers and organizations to easily access workshop ideas for STEAM (science, technology, engineering, art and mathematics) based learning.
 
 We work open because we believe developing learning materials with the insight and input of a diverse audience will create a better end result. We hope you agree and encourage you to read more about the project and how you can get involved!
 
 ## For our Teaching Artists
 
-We'd love for you to use this [template](https://github.com/eyebeam/curriculum/blob/master/TEMPLATE.md) to create a handout for the workshop you will be teaching at Eyebeam. Here's an [example](https://github.com/eyebeam/curriculum/blob/master/UnderstandingTheInternet.md) of what it looks like filled in.
+Please use this [template](https://github.com/eyebeam/curriculum/blob/master/TEMPLATE.md) to create a handout for the workshop you will be teaching at Eyebeam. 
+Here's an [example](https://github.com/eyebeam/curriculum/blob/master/UnderstandingTheInternet.md) of what it looks like filled in.
 
 
 ## About Us
 
-Eyebeam's educational programming is artist-led and every educational initiative is core to furtherance of Eyebeam’s mission. We believe in:
+Eyebeam's educational programming is artist-led and is core to furtherance of Eyebeam’s mission. We believe in:
 * Openness: to teach technology through art, encouraging self-expression and inquiry with the goal to create learning habits that are long lasting and self-perpetuating.
 * Justice: to engage students to think critically about technology practices and how they can be used to further social justice, equality and activism.
 * Invention: to empower youth to see technology as a tool for creation, enabling them to be producers, not only consumers.
@@ -19,9 +20,10 @@ Eyebeam's educational programming is artist-led and every educational initiative
 
 During our flagship education program, [Digital Day Camp](http://eyebeam.org/stopwork/eyebeam-celebrates-the-return-of-digital-day-camp/), students work alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field, and social issues around a unifying topical theme (the theme for 2017 was 'POWER'). We challenge youth to apply creative thinking strategies across a range of tools with the goal to develop critical, empowering and long-lasting relationships with technology and see their role in it as agents of change. 
 
-## Project description
+Eyebeam has a 19 year history offering innovative educational programs led by our residents and alumni. The [Eyebeam residency](http://eyebeam.org/residency/) is a prestigious award for artists engaged with technology and technologists working in the arts.
 
-Eyebeam has a 19 year history offering innovative educational programs led by our residents and alumni. The [Eyebeam residency](http://eyebeam.org/residency/) is a prestigious award for artists engaged with technology and technologists working in the arts.  
+
+## Project description  
 
 This project is intended to first provide a template for our teaching artists to document their lessons with a larger goal to share the curriculum for wider use in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
 
@@ -40,8 +42,6 @@ This project benefits from your feedback!
 Experience has shown us that teaching the same class in different environments requires different tactics. Things like class size, duration, available resources and subject familiarity affect how the curriculum is delivered. We want to hear what specific challenges you face - our goal is to provide adaptable and flexible curriculum that will work anywhere.
 
 This curriculum will evolve over time based on our experiences, what we hear from you and new tools and technology that become available. If you would like to get involved, please take a look at our [roadmap](https://github.com/eyebeam/curriculum/issues/1) to see where we are at in our development cycle and how you can contribute. We'd love to [hear your thoughts](https://github.com/eyebeam/curriculum/issues/5).
-
-We are also hosting a session at this year's [MozFest](https://mozillafestival.org/) (October 27-28, 2017 in London!) where we will discuss and brainstorm what this template should look like. 
 
 
 ## Contact
