@@ -40,25 +40,25 @@ What hardware, software, or other materials will teachers need for lessons and e
 ## Outcomes & Goals
 This section has three parts
 
-### 1) Provide an overview paragraph that describes briefly the technical concepts and skills covered in the unit;
+#### 1) Provide an overview paragraph that describes briefly the technical concepts and skills covered in the unit;
    e.g. "In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript."
 
-### 2) Vocabulary
-  e.g. Program: A procedure, or set of instructions, that performs a specific task when executed by a computer.
-      Programming Language: The human-readable commands and syntax (or grammar rules) used to write programs.
+#### 2) Vocabulary (example)
+* Program: A procedure, or set of instructions, that performs a specific task when executed by a computer. 
+* Programming Language: The human-readable commands and syntax (or grammar rules) used to write programs. 
       
-### 3) Prerequisites & Pre-Assessment
-e.g. any coding languages they should already be comfortable with, any frameworks or tools they should have installed before class or any readings and exercises they should complete before class.
+#### 3) Prerequisites & Pre-Assessment 
+Any coding languages they should already be comfortable with, any frameworks or tools they should have installed before class or any readings and exercises they should complete before class.
 
 
 ## Exercise Descriptions
 Descriptions of each exercise or phase of class. These should be able to be broken out to be taught independently for a shorter class setting or all together for an after school program.
 
 ## Student Reflections, Takeaways & Next Steps
-* Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
-* Multiple Project Exit Points: an idea of high-medium-low projects so students are locked into one end product.
-* Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
-* Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
+- [] Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
+- [] Multiple Project Exit Points: an idea of high-medium-low projects so students are locked into one end product.
+- [] Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
+- [] Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
 
 ## References
 Include any sources cited, but not directly linked in the unit.
