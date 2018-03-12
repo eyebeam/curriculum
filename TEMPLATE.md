@@ -11,7 +11,7 @@ This template is based off of NYC Department of Education's CS4All Blueprint to 
 ## Authors
 Your name, please include collaborators or funding institutions that have supported this work
 
-## Essential Question: What is your question?
+## Essential Question
 This is a question that leads to meaningful exploration of CS concepts and practices. Example Computer Science Essential Questions:
 - How can computers help us conduct scientific experiments?
 - How can programming represent your ideas and beliefs?
