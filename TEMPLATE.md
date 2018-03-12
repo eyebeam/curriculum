@@ -54,10 +54,10 @@ Any coding languages they should already be comfortable with, any frameworks or 
 Descriptions of each exercise or phase of class. These should be able to be broken out to be taught independently for a shorter class setting or all together for an after school program.
 
 ## Student Reflections, Takeaways & Next Steps
-- [ ] Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
-- [ ] Multiple Project Exit Points: an idea of high-medium-low projects so students are locked into one end product.
-- [ ] Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
-- [ ] Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
+- Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
+- Multiple Project Exit Points: an idea of high-medium-low projects so students are locked into one end product.
+- Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
+- Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
 
 ## References
 Include any sources cited, but not directly linked in the unit.
