@@ -6,8 +6,8 @@ We work open because we believe developing learning materials with the insight a
 
 ## For our Teaching Artists
 
-Please use this [template](https://github.com/eyebeam/curriculum/blob/master/TEMPLATE.md) to create a handout for the workshop you will be teaching at Eyebeam. 
-Here's an [example](https://github.com/eyebeam/curriculum/blob/master/UnderstandingTheInternet.md) of what it looks like filled in.
+* Please use this [template](https://github.com/eyebeam/curriculum/blob/master/TEMPLATE.md) to create a handout for the workshop you will be teaching at Eyebeam. 
+* Here's an [example](https://github.com/eyebeam/curriculum/blob/master/UnderstandingTheInternet.md) of what it looks like filled in.
 
 
 ## About Us
