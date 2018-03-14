@@ -1,8 +1,8 @@
 # About Our Template
 
-Eyebeam's educational focus is to develop artist-led, STEAM based education. This template is intended for our teaching artists to document their lessons with a larger goal for their curriculum to be referenced for wider use in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
+Eyebeam's educational focus is to promote artist-led, STEAM based education. This template is intended for our teaching artists to document their lessons with a larger goal for their curriculum to be referenced for wider use in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
 
-This template is based off of NYC Department of Education's CS4All Blueprint to teach creative computing. For more information on the core components they advise teachers and classes focus on to give the students the competency to be better prepared to engage with more difficult STEM lessons, I highly encourage you to read about [their approach here](https://blueprint.cs4all.nyc/what-is-cs/)
+This template is based off of NYC Department of Education's CS4All Blueprint to teach creative computing. For more information on the core components they advise teachers and classes focus on, to give the students the competency to be better prepared to engage with more difficult STEM lessons, I highly encourage you to read about [their approach here](https://blueprint.cs4all.nyc/what-is-cs/)
 
 # TEMPLATE BELOW
 
@@ -41,7 +41,7 @@ What hardware, software, or other materials will teachers need for lessons and e
 This section has three parts
 
 #### 1) Provide an overview paragraph that describes briefly the technical concepts and skills covered in the unit;
-   e.g. "In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript."
+e.g. "In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript."
 
 #### 2) Vocabulary (example)
 * Program: A procedure, or set of instructions, that performs a specific task when executed by a computer. 
