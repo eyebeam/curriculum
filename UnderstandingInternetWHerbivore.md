@@ -9,7 +9,7 @@ Herbivore is made and maintained by [Surya Mattu](https://github.com/samatt) and
 - What information are my IoT devices at home sharing?
 
 ### Introduction
-We will user [Herbivore](https://github.com/samatt/herbivore), an open source tool that aims to demistify the world of network packets for the uninitiated. Herbivore is a free, open source tool that shows users the data packets that travel between their computers and the internet. By surfacing this information, we hope to demystify how the internet works and make network literacy accessible to a much wider audience.
+We will user [Herbivore](https://github.com/samatt/herbivore), an open source tool that aims to demistify the world of network packets for the uninitiated through packet sniffing. Herbivore is a free, open source tool that shows users the data packets that travel between their computers and the internet. Packet sniffing is like sitting at a post office with a notebook and taking notes about the different packages that are coming in and out. By surfacing this information, we hope to demystify how the internet works and make network literacy accessible to a much wider audience.
 
 A handful of packet sniffing libraries and desktop applications already exist for analyzing network packets, but were designed for people who have programming experience or a network engineering background; they were not designed as educational tools for people without technical backgrounds. 
 
@@ -64,14 +64,13 @@ Each terminal in the network usually has a unique address so messages or connect
 
 * Hyper Text Transfer Protocol (HTTP) & HTTP Secure (HTTPS) - The protocol over which data is sent between your browser and the website that you are connected to. The 'S' at the end of HTTPS stands for 'Secure' and means all communications between your browser and the website are encrypted. 
 
-* MAC address (media access control) - a unique identifier assigned to a device at the data link layer of a network segment. MAC addresses are used as a network address for most IEEE 802 network technologies, including Ethernet and Wi-Fi. 
-MAC addresses are most often assigned by the manufacturer of a network interface controller (NIC) and are stored in its hardware, such as the card's read-only memory or some other firmware mechanism. In brief, MAC address is like a social security number which remains unchanged for a person's life time (here, the device), while an IP address is like a postal code which can be changed.
+* MAC address (media access control) - a unique identifier assigned to a device at the data link layer of a network segment that is permanent to the device. MAC addresses are most often assigned by the manufacturer of a network interface controller (NIC) and are stored in its hardware, such as the card's read-only memory or some other firmware mechanism. In brief, MAC address is like a social security number which remains unchanged for a person's life time (here, the device), while an IP address is like a postal code which can be changed.
 
 * IP address (Internet Protocol address) - Numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location addressing. The IP address space is managed globally by the Internet Assigned Numbers Authority (IANA), and by five regional Internet registries (RIRs) responsible in their designated territories for assignment to end users and local Internet registries, such as Internet service providers. Each ISP or private network administrator assigns an IP address to each device connected to its network. Such assignments may be on a static (fixed or permanent) or dynamic basis. 
 
-* Port - A port is an endpoint of communication in an operating system. A port is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number.
+* [Port](https://en.wikipedia.org/wiki/Port_(computer_networking)) - A port is an endpoint of communication in an operating system. A port is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number. 
 
-* Packets or Network Packet -  A network packet is a formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers. 
+* [Packets](http://networks.land/reference/packets/) or Network Packet -  Information transferred through the internet is broken down into smaller, formatted chunks of data called packets. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers. 
 
 * Packet Sniffer -  A packet inspection tool is software running on a computer that allows you to look at all the network traffic that is being sent and received on the network you are currently connected to. The range of activity this lets you monitor includes your browser traffic, your operating system sending bug reports, services like Dropbox and Spotify talking to their servers and content streaming to devices such as Apple Tvs and Sonos speakers, and your internet of things devices talking on the internet.
 
@@ -79,6 +78,21 @@ MAC addresses are most often assigned by the manufacturer of a network interface
 
 * Payload - In general, payload is the data that is carried on behalf of an application. It is usually of variable length, up to a maximum that is set by the network protocol and sometimes the equipment on the route. When necessary, some networks can break a larger packet into smaller packets.
 
+* DNS (Domain Naming System) - A hierarchical decentralized naming system for computers, services, or other resources connected to the Internet. Most prominently, it translates more readily memorized, human readable domain names (google.com) to the numerical IP addresses (172.217.10.46) needed for locating and identifying computer services and devices with the underlying network protocols. 
+
+## Resources From Class
+* Local IP address Ranges [examples](https://www.google.com/search?q=local+ip+ranges&oq=local+ip+range&aqs=chrome.0.0j69i57j0.1999j1j7&sourceid=chrome&ie=UTF-8)
+* Tool to [look at](https://www.ultratools.com/tools/ipWhoisLookup) the hostname/ owner of an IP address
+* [List](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers) of ports and their uses
+* MAC address [lookup tool](https://www.wireshark.org/tools/oui-lookup.html) from Wireshark. You can find the vendor name based on the first three bytes of an address.
+* [TOR](https://www.torproject.org/); anonymous browsing protocol. 
+* Developer Tools; a way to see how a website is made/ way to edit the website. Instructions for [Chrome browser](https://developers.google.com/web/tools/chrome-devtools/)
+* [Browser Stack](https://www.browserstack.com/) is an emulator tool that spoofs displays (phone, tablet...) from the browser. 
+* [Understanding DDoS](https://www.digitalattackmap.com/understanding-ddos/); Attacks from a group of computers all making requests at a specific site so that the influx of traffic would bring it down. Also look at: 
+   * [Botnet definition](https://en.wikipedia.org/wiki/Botnet)
+   * [Mirai botnet explained](https://www.csoonline.com/article/3258748/security/the-mirai-botnet-explained-how-teen-scammers-and-cctv-cameras-almost-brought-down-the-internet.html)
+* [Shodan.io](https://www.shodan.io/); a website that scans and displays IP Addresses for open ports
+* [Before You Hit 'Submit,' This Company Has Already Logged Your Personal Data](https://gizmodo.com/before-you-hit-submit-this-company-has-already-logge-1795906081), article referencing the websites that expose your data in the forms or have third party code that captures it from the website as you type.
 
 ## Post Session 
 
@@ -100,6 +114,17 @@ These are additional materials to leave with to dig deeper into the subject or a
 - [mitmproxy](https://mitmproxy.org) - Advanced but powerful packet sniffer
 
 ### Implementation Guidance &  Teaching Reflection
-TBD... e.g. Please provide some guidance based on experience delivering the unit and potential modifications might you are considering making for future iterations of this unit. This is an opportunity for you as the unit author to give teachers practical guidance.
+***Questions from Class***
+
+*Are there rules against Packet Sniffing?...*  “Yeah. Do it at home” 
+* The legality in the US around Packet Sniffing is [under the CFAA](https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act). Basically, if you use technology in a way other than the way that it was intended, it could potentially be a felony. That includes building your own software on top of operating systems built by other people. 
+* Also, look at the [Wiretap Act](https://www.lawyers.com/legal-info/personal-injury/types-of-personal-injury-claims/wiretap-act-privacy.html)
+
+*What is the difference between HTTP vs HTTPS*
+* If you notice on herbivore, there is a lock on some of these packets. The lock signifies an HTTPS request. See the difference using Herbivore and [http://cooperative-piano.glitch.me/](http://cooperative-piano.glitch.me/).
+  * HTTP: Everyone can see exactly what my computer is asking for. 
+  * HTTPS: What your computer does is secured and encrypted. 
+  * See the difference passed on a form in HTTP vs HTTPS [here](http://cooperative-piano.glitch.me/)
+
 
 ***With thanks and acknowledgement, we were inspired by the curriculuim templates shared by [NYCDOE](http://blueprint.cs4all.nyc/units/40/) and [NYC Open Data](https://github.com/datapolitan/Data_Analytics_Classes/blob/gh-pages/Excel_Tools_Summarizing_Data.md)***
